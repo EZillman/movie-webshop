@@ -1,1 +1,1 @@
-# moviewebshop-vue
+# Movie Webshop Group project with Vue
